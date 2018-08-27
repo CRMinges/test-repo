@@ -1,5 +1,3 @@
- This is the initial commit, and first addition to 
-
- The 
+ This is the second commit, and first addition to
 
  repo README.
